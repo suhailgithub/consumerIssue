@@ -1,0 +1,3 @@
+# consumerIssue
+
+node consumer.js
