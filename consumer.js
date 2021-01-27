@@ -8,6 +8,8 @@ app.use(
     })
   )
   
+
+  
   app.use(bodyParser.json())
 
 app.post("/consumer", (request, response) =>{
